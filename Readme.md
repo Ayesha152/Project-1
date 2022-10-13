@@ -13,7 +13,7 @@
 
 ## Time taken to complete the project ⏲️
 
-16hrs
+12hrs
 
 ## Screenshot &nbsp; ![badge](https://img.shields.io/badge/Website-Screenshot-orange)
-![project9](./screen-shots/project9-screenshot.png)
+![project9](./assets/screenshot.png)
