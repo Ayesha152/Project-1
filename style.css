@@ -166,7 +166,7 @@ body {
     position: relative;
 }
 
-.list-item::before {
+.list-item:hover::before {
 
     content: '';
     position: absolute;
